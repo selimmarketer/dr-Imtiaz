@@ -1,0 +1,6 @@
+{
+  "name": "ডা. ইমতিয়াজ হোসেন অর্ক",
+  "description": "সহকারী রেজিস্ট্রার, ফরিদপুর মেডিকেল কলেজ হাসপাতাল। মেডিসিন, ডায়াবেটিস ও হৃদরোগে অভিজ্ঞ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
