@@ -45,7 +45,7 @@ export default function Preloader({ onComplete }: PreloaderProps) {
         <div className="relative mb-6">
           <div className="absolute inset-0 rounded-full bg-gold/20 animate-ping duration-1000 scale-110"></div>
           <img
-            src="https://i.imgur.com/mRW100c.jpeg"
+            src="https://i.imgur.com/WuzxI4q.jpeg"
             alt="Dr. Emtiaz Hossain Orko"
             referrerPolicy="no-referrer"
             onError={(e) => {

@@ -8,7 +8,7 @@ interface GalleryItem {
 export default function Gallery() {
   const items: GalleryItem[] = [
     {
-      src: "https://i.imgur.com/mRW100c.jpeg",
+      src: "https://i.imgur.com/WuzxI4q.jpeg",
       alt: "ডা. ইমতিয়াজ হোসেন অর্ক",
       caption: "ডা. ইমতিয়াজ হোসেন অর্ক (এমবিবিএস, বিসিএস, সিসিডি, এফসিপিএস (মেডিসিন)",
       objectPosition: "center top"

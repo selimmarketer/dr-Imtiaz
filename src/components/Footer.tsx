@@ -29,7 +29,7 @@ export default function Footer() {
           <div className="lg:col-span-5 font-bengali">
             <div className="flex items-center gap-3.5 mb-5">
               <img
-                src="https://i.imgur.com/mRW100c.jpeg"
+                src="https://i.imgur.com/WuzxI4q.jpeg"
                 alt="ডা. ইমতিয়াজ অর্ক"
                 referrerPolicy="no-referrer"
                 onError={(e) => {

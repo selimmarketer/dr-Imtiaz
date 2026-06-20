@@ -58,7 +58,7 @@ export default function DoctorProfile() {
                 {/* Portrait Circular Image */}
                 <div className="w-full h-full rounded-full border-4 border-gold shadow-2xl overflow-hidden bg-emerald-950 flex items-center justify-center">
                   <img
-                    src="https://i.imgur.com/mRW100c.jpeg"
+                    src="https://i.imgur.com/WuzxI4q.jpeg"
                     alt="ডাঃ ইমতিয়াজ হোসেন অর্ক - মধুখালী ও ফরিদপুরে অভিজ্ঞ মেডিসিন ও হৃদরোগের ডাক্তার"
                     referrerPolicy="no-referrer"
                     loading="lazy"

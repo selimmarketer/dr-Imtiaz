@@ -64,7 +64,7 @@ export default function Navbar() {
           <div className="flex items-center gap-3">
             <div className="relative">
               <img
-                src="https://i.imgur.com/mRW100c.jpeg"
+                src="https://i.imgur.com/WuzxI4q.jpeg"
                 alt="ডা. ইমতিয়াজ হোসেন অর্ক"
                 referrerPolicy="no-referrer"
                 width={44}
@@ -158,7 +158,7 @@ export default function Navbar() {
           <div className="flex items-center justify-between border-b border-white/10 pb-3 mb-2">
             <div className="flex items-center gap-3">
               <img
-                src="https://i.imgur.com/mRW100c.jpeg"
+                src="https://i.imgur.com/WuzxI4q.jpeg"
                 alt="ডা. ইমতিয়াজ হোসেন অর্ক"
                 referrerPolicy="no-referrer"
                 loading="lazy"
