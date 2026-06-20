@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /admin/
 
-Sitemap: https://www.dremtiazorko.com/sitemap.xml
+Sitemap: https://dremtiazorko.com/sitemap.xml

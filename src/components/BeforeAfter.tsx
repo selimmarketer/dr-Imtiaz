@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
 import { CheckCircle2, AlertCircle, ArrowRight, TrendingDown } from 'lucide-react';
 
-import diabeticImg from '../assets/images/diabetic_control_wellness_check_1780495727116.png';
-import patientImg from '../assets/images/dr_consulting_bangladeshi_patient_1780495683804.png';
-import skincareImg from '../assets/images/clinical_diagnostic_healthy_skincare_1780495702774.png';
-
 interface CaseStudy {
   id: number;
   category: string;
@@ -33,7 +29,7 @@ export default function BeforeAfter() {
       title: "টাইপ-২ জটিল ডায়াবেটিস ও রক্তের শর্করা নিরাময়",
       issue: "অতিরিক্ত ইনসুলিন নির্ভরতা ও রক্তে অমীমাংসিত উচ্চ শর্করা",
       duration: "৩ মাস",
-      image: diabeticImg,
+      image: "/images/diabetic_control_wellness_check_1780495727116.png",
       beforeLabel: "পূর্বের HbA1c লেভেল",
       beforeVal: "১০.৮%",
       beforeState: "উচ্চ ঝুঁকিপূর্ণ সুগার লেভেল",
@@ -58,7 +54,7 @@ export default function BeforeAfter() {
       title: "ফ্যাটি লিভার গ্রেড-২ উপশম ও ওজন হ্রাস",
       issue: "অতিরিক্ত মেদজনিত স্থূলতা এবং লিভারে মেদ সঞ্চয়",
       duration: "৪ মাস",
-      image: patientImg,
+      image: "/images/dr_consulting_bangladeshi_patient_1780495683804.png",
       beforeLabel: "পূর্বের শারীরিক ওজন",
       beforeVal: "৯৪ কেজি",
       beforeState: "ফ্যাটি লিভার গ্রেড-২",
@@ -83,7 +79,7 @@ export default function BeforeAfter() {
       title: "হাঁপানি ও দীর্ঘস্থায়ী অ্যালার্জি থেকে মুক্তি",
       issue: "ঘন ঘন অ্যাজমা ও ডাস্ট অ্যালার্জি, দৈনিক ইনহেলার নির্ভরতা",
       duration: "২ মাস",
-      image: skincareImg,
+      image: "/images/clinical_diagnostic_healthy_skincare_1780495702774.png",
       beforeLabel: "ইনহেলার ব্যবহার",
       beforeVal: "৩ বার/প্রতিদিন",
       beforeState: "ঘন হাঁপানি ও ধূলিকণায় তীব্র অ্যালার্জি",
